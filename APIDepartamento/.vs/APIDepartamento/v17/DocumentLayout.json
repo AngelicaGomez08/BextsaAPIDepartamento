@@ -1,0 +1,190 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\angel\\source\\BextsaDepartamento\\APIDepartamento\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{9891D0B4-01E1-4F67-87F3-4B0F0ADCE04A}|APIDepartamento\\APIDepartamento.csproj|c:\\users\\angel\\source\\bextsadepartamento\\apidepartamento\\apidepartamento\\models\\ciudad.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9891D0B4-01E1-4F67-87F3-4B0F0ADCE04A}|APIDepartamento\\APIDepartamento.csproj|solutionrelative:apidepartamento\\models\\ciudad.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9891D0B4-01E1-4F67-87F3-4B0F0ADCE04A}|APIDepartamento\\APIDepartamento.csproj|c:\\users\\angel\\source\\bextsadepartamento\\apidepartamento\\apidepartamento\\models\\departamento.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9891D0B4-01E1-4F67-87F3-4B0F0ADCE04A}|APIDepartamento\\APIDepartamento.csproj|solutionrelative:apidepartamento\\models\\departamento.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9891D0B4-01E1-4F67-87F3-4B0F0ADCE04A}|APIDepartamento\\APIDepartamento.csproj|c:\\users\\angel\\source\\bextsadepartamento\\apidepartamento\\apidepartamento\\controllers\\departamentocontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9891D0B4-01E1-4F67-87F3-4B0F0ADCE04A}|APIDepartamento\\APIDepartamento.csproj|solutionrelative:apidepartamento\\controllers\\departamentocontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9891D0B4-01E1-4F67-87F3-4B0F0ADCE04A}|APIDepartamento\\APIDepartamento.csproj|c:\\users\\angel\\source\\bextsadepartamento\\apidepartamento\\apidepartamento\\models\\pais.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9891D0B4-01E1-4F67-87F3-4B0F0ADCE04A}|APIDepartamento\\APIDepartamento.csproj|solutionrelative:apidepartamento\\models\\pais.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9891D0B4-01E1-4F67-87F3-4B0F0ADCE04A}|APIDepartamento\\APIDepartamento.csproj|c:\\users\\angel\\source\\bextsadepartamento\\apidepartamento\\apidepartamento\\controllers\\paiscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9891D0B4-01E1-4F67-87F3-4B0F0ADCE04A}|APIDepartamento\\APIDepartamento.csproj|solutionrelative:apidepartamento\\controllers\\paiscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9891D0B4-01E1-4F67-87F3-4B0F0ADCE04A}|APIDepartamento\\APIDepartamento.csproj|c:\\users\\angel\\source\\bextsadepartamento\\apidepartamento\\apidepartamento\\data\\appdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9891D0B4-01E1-4F67-87F3-4B0F0ADCE04A}|APIDepartamento\\APIDepartamento.csproj|solutionrelative:apidepartamento\\data\\appdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9891D0B4-01E1-4F67-87F3-4B0F0ADCE04A}|APIDepartamento\\APIDepartamento.csproj|c:\\users\\angel\\source\\bextsadepartamento\\apidepartamento\\apidepartamento\\controllers\\ciudadcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9891D0B4-01E1-4F67-87F3-4B0F0ADCE04A}|APIDepartamento\\APIDepartamento.csproj|solutionrelative:apidepartamento\\controllers\\ciudadcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9891D0B4-01E1-4F67-87F3-4B0F0ADCE04A}|APIDepartamento\\APIDepartamento.csproj|c:\\users\\angel\\source\\bextsadepartamento\\apidepartamento\\apidepartamento\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9891D0B4-01E1-4F67-87F3-4B0F0ADCE04A}|APIDepartamento\\APIDepartamento.csproj|solutionrelative:apidepartamento\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9891D0B4-01E1-4F67-87F3-4B0F0ADCE04A}|APIDepartamento\\APIDepartamento.csproj|c:\\users\\angel\\source\\bextsadepartamento\\apidepartamento\\apidepartamento\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{9891D0B4-01E1-4F67-87F3-4B0F0ADCE04A}|APIDepartamento\\APIDepartamento.csproj|solutionrelative:apidepartamento\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 1,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedHeight": 240,
+          "SelectedChildIndex": 5,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Departamento.cs",
+              "DocumentMoniker": "C:\\Users\\angel\\source\\BextsaDepartamento\\APIDepartamento\\APIDepartamento\\Models\\Departamento.cs",
+              "RelativeDocumentMoniker": "APIDepartamento\\Models\\Departamento.cs",
+              "ToolTip": "C:\\Users\\angel\\source\\BextsaDepartamento\\APIDepartamento\\APIDepartamento\\Models\\Departamento.cs",
+              "RelativeToolTip": "APIDepartamento\\Models\\Departamento.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAqwAwAAAAUAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-13T19:23:38.32Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "AppDbContext.cs",
+              "DocumentMoniker": "C:\\Users\\angel\\source\\BextsaDepartamento\\APIDepartamento\\APIDepartamento\\Data\\AppDbContext.cs",
+              "RelativeDocumentMoniker": "APIDepartamento\\Data\\AppDbContext.cs",
+              "ToolTip": "C:\\Users\\angel\\source\\BextsaDepartamento\\APIDepartamento\\APIDepartamento\\Data\\AppDbContext.cs",
+              "RelativeToolTip": "APIDepartamento\\Data\\AppDbContext.cs",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAowBYAAAAyAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-13T19:21:58.838Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Pais.cs",
+              "DocumentMoniker": "C:\\Users\\angel\\source\\BextsaDepartamento\\APIDepartamento\\APIDepartamento\\Models\\Pais.cs",
+              "RelativeDocumentMoniker": "APIDepartamento\\Models\\Pais.cs",
+              "ToolTip": "C:\\Users\\angel\\source\\BextsaDepartamento\\APIDepartamento\\APIDepartamento\\Models\\Pais.cs",
+              "RelativeToolTip": "APIDepartamento\\Models\\Pais.cs",
+              "ViewState": "AgIAAAcAAAAAAAAAAAA1wAsAAAAUAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-13T19:20:32.282Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "DepartamentoController.cs",
+              "DocumentMoniker": "C:\\Users\\angel\\source\\BextsaDepartamento\\APIDepartamento\\APIDepartamento\\Controllers\\DepartamentoController.cs",
+              "RelativeDocumentMoniker": "APIDepartamento\\Controllers\\DepartamentoController.cs",
+              "ToolTip": "C:\\Users\\angel\\source\\BextsaDepartamento\\APIDepartamento\\APIDepartamento\\Controllers\\DepartamentoController.cs",
+              "RelativeToolTip": "APIDepartamento\\Controllers\\DepartamentoController.cs",
+              "ViewState": "AgIAACYAAAAAAAAAAAAowDIAAAAuAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-13T19:19:36.614Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "PaisController.cs",
+              "DocumentMoniker": "C:\\Users\\angel\\source\\BextsaDepartamento\\APIDepartamento\\APIDepartamento\\Controllers\\PaisController.cs",
+              "RelativeDocumentMoniker": "APIDepartamento\\Controllers\\PaisController.cs",
+              "ToolTip": "C:\\Users\\angel\\source\\BextsaDepartamento\\APIDepartamento\\APIDepartamento\\Controllers\\PaisController.cs",
+              "RelativeToolTip": "APIDepartamento\\Controllers\\PaisController.cs",
+              "ViewState": "AgIAABgAAAAAAAAAAIAwwBQAAAAIAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-13T19:19:22.205Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Ciudad.cs",
+              "DocumentMoniker": "C:\\Users\\angel\\source\\BextsaDepartamento\\APIDepartamento\\APIDepartamento\\Models\\Ciudad.cs",
+              "RelativeDocumentMoniker": "APIDepartamento\\Models\\Ciudad.cs",
+              "ToolTip": "C:\\Users\\angel\\source\\BextsaDepartamento\\APIDepartamento\\APIDepartamento\\Models\\Ciudad.cs",
+              "RelativeToolTip": "APIDepartamento\\Models\\Ciudad.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-13T19:20:54.038Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:1:0:{d212f56b-c48a-434c-a121-1c5d80b59b9f}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{34e76e81-ee4a-11d0-ae2e-00a0c90fffc3}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "CiudadController.cs",
+              "DocumentMoniker": "C:\\Users\\angel\\source\\BextsaDepartamento\\APIDepartamento\\APIDepartamento\\Controllers\\CiudadController.cs",
+              "RelativeDocumentMoniker": "APIDepartamento\\Controllers\\CiudadController.cs",
+              "ToolTip": "C:\\Users\\angel\\source\\BextsaDepartamento\\APIDepartamento\\APIDepartamento\\Controllers\\CiudadController.cs",
+              "RelativeToolTip": "APIDepartamento\\Controllers\\CiudadController.cs",
+              "ViewState": "AgIAAAwAAAAAAAAAAAAhwBkAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-13T19:19:48.452Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\angel\\source\\BextsaDepartamento\\APIDepartamento\\APIDepartamento\\Program.cs",
+              "RelativeDocumentMoniker": "APIDepartamento\\Program.cs",
+              "ToolTip": "C:\\Users\\angel\\source\\BextsaDepartamento\\APIDepartamento\\APIDepartamento\\Program.cs",
+              "RelativeToolTip": "APIDepartamento\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABQAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-13T20:59:23.67Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "C:\\Users\\angel\\source\\BextsaDepartamento\\APIDepartamento\\APIDepartamento\\appsettings.json",
+              "RelativeDocumentMoniker": "APIDepartamento\\appsettings.json",
+              "ToolTip": "C:\\Users\\angel\\source\\BextsaDepartamento\\APIDepartamento\\APIDepartamento\\appsettings.json",
+              "RelativeToolTip": "APIDepartamento\\appsettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAABJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2025-04-13T20:58:17.154Z"
+            }
+          ]
+        },
+        {
+          "DockedHeight": 12,
+          "SelectedChildIndex": -1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{d78612c7-9962-4b83-95d9-268046dad23a}"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
